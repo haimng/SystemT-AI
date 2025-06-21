@@ -1,0 +1,12 @@
+python-dotenv
+psycopg2-binary
+pandas
+numpy
+scikit-learn
+xgboost
+tensorflow_decision_forests
+boto3
+shap
+matplotlib
+ipython
+mysql-connector-python
